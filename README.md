@@ -1,4 +1,3 @@
-# FCFM
 # Mineria_Datos
 
 ## Fase I
