@@ -2,6 +2,7 @@
 
 ## Fase I
 
+[Presentaciones técnicas de Minería](https://github.com/JavIer-SS/Mineria-de-Datos-002/files/5270053/Presentacion_Outliers_002.pdf)
 [Resumenes](https://github.com/JavierHdzzz/Mineria_Datos/releases/download/resumen_mdatos/RESUMENES_Mineria.de.Datos.pdf)
 
 ## Fase II
