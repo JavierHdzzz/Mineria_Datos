@@ -13,3 +13,7 @@
 [Ejercicios prácticos de python](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/PythonBasico_1599327-checkpoint.ipynb)
 
 [Avance I Proyecto Integrador](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance1-PIA_8_002.pdf)
+
+[P1-Manipulación de Datos](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Limpieza_Datos-checkpoint.ipynb)
+
+[P2-Visualización de Datos](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/V_Datos-checkpoint.ipynb)
