@@ -21,3 +21,4 @@
 ## Fase III
 
 [Segundo Avance del PIA](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance2_MDatos-checkpoint.ipynb)
+[PIA Equipo 8](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/PosterFinal_Homicidios.pdf)
